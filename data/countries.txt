@@ -1,0 +1,17 @@
+Name	Capital	Population
+Republic of Poland	Warsaw	38500
+Czech Republic	Prague	10500
+Kingdom of Spain	Madrid	46599
+England	London	20000
+Austria	Vienna	70000
+Brazil	Brasilia	40299
+Croatia	Zagreb	15000
+Denmark	Copenhagen	8022
+Finland	Helsinki	9822
+Turkey	Ankara	3822
+Andorra	Andora	8893
+Canada	Ottawa	29300
+Denmark	Kopengaha	920121
+Germany	Berlin	382993
+Japan	Tokyo	38920
+Norway	Oslo	320932
