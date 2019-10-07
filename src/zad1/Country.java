@@ -15,6 +15,5 @@ public class Country {
         this.population=population;
         String myFlag = "data/flags/" + country+ ".png";
         icon= new ImageIcon(myFlag);
-
     }
 }

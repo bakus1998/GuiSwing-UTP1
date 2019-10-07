@@ -35,6 +35,7 @@ class MyRendererColor extends DefaultTableCellRenderer
     }
 
     public void setCell(int row){
+        //setDateEdit
         SimpleDateFormat formatter= new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
         Date date = new Date(System.currentTimeMillis());
         String data = formatter.format(date);
