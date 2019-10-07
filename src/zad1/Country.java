@@ -13,7 +13,7 @@ public class Country {
         this.capital=capital;
         this.country=country;
         this.population=population;
-        String myFlag = "data/flags/" + country+ ".png";
+        String myFlag = "data/flags/" + country + ".png";
         icon= new ImageIcon(myFlag);
     }
 }
