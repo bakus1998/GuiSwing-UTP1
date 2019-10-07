@@ -15,3 +15,18 @@ Denmark	Kopengaha	920121
 Germany	Berlin	382993
 Japan	Tokyo	38920
 Norway	Oslo	320932
+Turkmenistan	Aszchabad	65086
+Belgium	Bruksels	32433
+Afghanistan	Kabul	6088
+Botswana	Gaborone	3233
+Barbados	Bridgetown	3664
+Fiji	Suva	5666
+Cyprus	Nikozja	3223
+Egypt	Kair	324000
+Cuba	Hawana	980
+Israel	Jerozolima	32093
+Italy	Rome	5930
+India	New Delhi	5666
+Yemen	Sana	90234
+Ukraine	Kiev	39672
+Venezuela	Caracas	9023
