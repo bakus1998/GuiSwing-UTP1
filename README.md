@@ -67,9 +67,16 @@ Za wykonanie podstawowej części zadania mozna uzyskać 3 punkty.
 Dodatkowe wymagania:
 
 a) kolumny tabeli mają mieć nazwy z  pierwszego wiersza pliku +2 p.
+
 b) dane o ludności mają być traktowane jako liczby +1 p.
+
 c) i pokazywane w tabeli jak liczby +1 p.
+
 d) pokazać w tabeli flagi państw (wymaga modyfikacji pliku państw i dodanie kolumny, pokazującej flagę jako grafikę) +2 p.
+
 e) zapewnić pokazywanie wszystkich państw świata +2 p.
+
 f) wyróżnić  komórki z liczbą ludności dla państw z ludnością > 20 mln czerwonym kolorem pisma +2 p.
+
 g) pokazać w tabeli dodatkową kolumnę wyświetlającą datę ostatniej modyfikacji kolumny ludności +2 p.
+
